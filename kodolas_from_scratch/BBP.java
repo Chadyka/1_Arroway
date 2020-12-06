@@ -30,6 +30,7 @@ public class BBP {
             t = t * 2;
         }
         if (t > n)
+
             t = t / 2;
         long r = 1;
         while (true) {
